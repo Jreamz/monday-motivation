@@ -4,7 +4,7 @@ import datetime as dt
 
 my_email = "masonputney@gmail.com"
 to_email = "support@itsolutionsco.com"
-password = "bzrnfduvtefxfkof"
+password = "supersecretpasswordherelol"
 
 now = dt.datetime.now()
 weekday = now.weekday()
